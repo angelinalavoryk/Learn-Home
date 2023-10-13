@@ -43,6 +43,12 @@ Le site web permettra aux élèves et aux bénévoles de communiquer plus facile
 
 4. **Diagrammes de Cas d'Usage sur Lucidchart**
    - [Diagrammes de Cas d'Usage](https://lucid.app/lucidspark/da995934-4727-4a3f-a465-2fb8c0a42ccd/edit?page=0_0&invitationId=inv_e8d81b33-dad1-4992-a16b-0170e290d9af#)
+
+
+
+
+
+
   
 
   ![Learn@home](https://github.com/angelinalavoryk/images/blob/main/learnhome.png)
