@@ -1,20 +1,17 @@
-# Projet Learn@Home 
+# Projet 10: Learn@Home 
 
 ![Learn@Home](https://github.com/angelinalavoryk/images/blob/main/learnathome.png)
 
-## Description du Projet
+## Description du Projet :school_satchel:
 
 Ce projet consiste à concevoir et développer le site web de l'association Learn@Home. 
-Learn@Home a pour objectif de mettre en relation des enfants en difficulté scolaire avec des tuteurs bénévoles, offrant un soutien scolaire à distance. 
-Le site web permettra aux élèves et aux bénévoles de communiquer plus facilement, directement depuis la plateforme en remplacement des solutions de communication actuelles telles que WhatsApp et les SMS.
-
-## Chef de Projet
-
-- Nom : Lavoryk Anhelina
-- Poste : Lead Développeur de l'Entité Web
+Learn@Home a pour objectif de mettre en relation des enfants en difficulté scolaire avec des tuteurs bénévoles, 
+offrant un soutien scolaire à distance. 
+Le site web permettra aux élèves et aux bénévoles de communiquer plus facilement, 
+directement depuis la plateforme en remplacement des solutions de communication actuelles telles que WhatsApp et les SMS.
 
 
-## Objectifs du Projet
+## Objectifs du Projet :dart:
 
 - Définir les besoins clients.
 - Concevoir les diagrammes de cas d'usage.
@@ -22,13 +19,15 @@ Le site web permettra aux élèves et aux bénévoles de communiquer plus facile
 - Élaborer des maquettes pour le site web (versions desktop et mobile).
 - Organiser le projet en utilisant un Kanban.
 
-  ## Progression du Projet
+## Progression du Projet
 
 - [x] Définition des besoins clients.
 - [x] Diagrammes de cas d'usage.
 - [x] User stories avec critères d'acceptation.
 - [x] Maquettes pour le site web (versions desktop et mobile).
 - [x] Organisation du projet avec le Kanban.
+
+---
 
 ## Liens Importants
 
@@ -44,7 +43,7 @@ Le site web permettra aux élèves et aux bénévoles de communiquer plus facile
 4. **Diagrammes de Cas d'Usage sur Lucidchart**
    - [Diagrammes de Cas d'Usage](https://lucid.app/lucidspark/da995934-4727-4a3f-a465-2fb8c0a42ccd/edit?page=0_0&invitationId=inv_e8d81b33-dad1-4992-a16b-0170e290d9af#)
 
-
+---
 
 
 
